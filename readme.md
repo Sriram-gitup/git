@@ -1,3 +1,4 @@
 #git
-readme file
+readme filegit 
 # change from feature
+# change from bug
